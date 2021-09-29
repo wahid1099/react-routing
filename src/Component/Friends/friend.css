@@ -1,0 +1,11 @@
+.friend{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border: 1px solid yellow;
+}
+.user{
+    border: 1px solid yellow;
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin: 10px;
+}
